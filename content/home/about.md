@@ -18,7 +18,7 @@ weight = 5
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "PhD in applied mathematics"
-  institution = "Stanford University"
+  institution = "Laboratoire Jacques-Louis Lions"
   year = 2012
 
 [[education.courses]]
